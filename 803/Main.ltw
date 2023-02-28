@@ -20,7 +20,7 @@
             <SerializationItem>
                 <IsListValue>false</IsListValue>
                 <Name>ComponentName</Name>
-                <Value xsi:type="xsd:string">Последовательность</Value>
+                <Value xsi:type="xsd:string">Последовательность111</Value>
             </SerializationItem>
             <SerializationItem>
                 <IsListValue>false</IsListValue>
